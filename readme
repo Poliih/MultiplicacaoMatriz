@@ -1,5 +1,6 @@
 Na matemática, uma matriz é uma estrutura de tabela disposta em linhas e colunas, e que possuem as operações de adição, subtração e multiplicação bem definidas. Uma matriz pode ser representada por M (linhas, colunas) e seus elementos por m (linha, coluna). Considerando a operação de multiplicação, para que esta seja possível, é necessário que o número de colunas da matriz A seja igual ao número de linhas da matriz B, sendo que o resultado da multiplicação é uma matriz quadrada. Considerando as matrizes a seguir, temos A(2,3) x B(3,2) = C(2,2).
 
+
 Para encontrar os valores de C são relacionadas as linhas da matriz A com as colunas da matriz B, como segue:
 c11 -> 1ª linha de A e 1ª coluna de B
 c12 -> 1ª linha de A e 2ª coluna de B
